@@ -30,6 +30,10 @@ export const metadata: Metadata = {
   authors: [{ name: "Nyonnie Barnnie" }],
   creator: "Nyonnie Barnnie",
 
+  verification: {
+    google: "3h3q3lvjOceQnaVF1DxIzNpB0JRvV-8qhRHS_Rh2WXU",
+  },
+
   alternates: {
     canonical: "/",
   },
