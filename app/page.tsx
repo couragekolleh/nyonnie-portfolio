@@ -24,37 +24,38 @@ export default function Home() {
           <div className="navLinks">
             <a href="#about">About</a>
             <a href="#journey">Journey</a>
-            <a href="#training">Training</a>
+            <a href="#training">Experience</a>
             <a href="#wellness">Wellness</a>
-            <a href="#vision">Vision</a>
-            <a href="#connect">Connect</a>
+            <a href="#vision">Goals</a>
+            <a href="#connect">Follow</a>
           </div>
         </nav>
 
         <div className="heroContent">
           <p className="eyebrow">
-            ATHLETIC TRAINING • WELLNESS • SELF-CARE • ATHLETE ADVOCACY
+            PERSONAL PORTFOLIO • EXERCISE SCIENCE • ASPIRING ATHLETIC TRAINER
           </p>
 
           <h1>
-            BUILT TO
+            THIS IS
             <br />
-            <span>CARE.</span>
+            <span>NYONNIE.</span>
           </h1>
 
           <p className="heroText">
-            Future Athletic Trainer. Former athlete. Wellness enthusiast.
-            Passionate about healthcare, fitness, self-care, and helping people
-            feel better inside and out.
+            A personal portfolio documenting my background, experiences,
+            interests, and journey. I hold a bachelor&apos;s degree in Exercise
+            Science and I&apos;m currently working toward a future career in
+            Athletic Training.
           </p>
 
           <div className="heroButtons">
             <a href="#about" className="primaryBtn">
-              Discover My Journey
+              Get To Know Me
             </a>
 
-            <a href="#vision" className="secondaryBtn">
-              My Vision
+            <a href="#journey" className="secondaryBtn">
+              My Journey
             </a>
           </div>
         </div>
@@ -75,13 +76,19 @@ export default function Home() {
           </div>
 
           <div className="aboutContent">
-            <p className="miniTitle">MORE THAN A TRAINER</p>
+            <p className="miniTitle">GET TO KNOW ME</p>
 
             <h2>
-              A PASSION FOR
+              MY STORY.
               <br />
-              <span>PEOPLE & SPORT.</span>
+              <span>MY JOURNEY.</span>
             </h2>
+
+            <p>
+              I&apos;m Nyonnie. I have a bachelor&apos;s degree in Exercise
+              Science, a lifelong connection to sports, and a growing passion
+              for healthcare, wellness, fitness, and helping others.
+            </p>
 
             <p>
               Sport has been part of my story for as long as I can remember.
@@ -99,15 +106,10 @@ export default function Home() {
             </p>
 
             <p>
-              My passion for fitness continued through middle school and high
-              school, where I discovered weight training and developed a deeper
-              appreciation for movement, strength, and physical health.
-            </p>
-
-            <p>
-              I always knew I wanted to help and care for people in the medical
-              field. Athletic Training became the perfect balance between my
-              love for healthcare and my lifelong connection to sports.
+              My interest in movement and health eventually led me to Exercise
+              Science. Today, I&apos;m continuing my education and gaining
+              hands-on clinical experience as I work toward becoming an
+              Athletic Trainer.
             </p>
 
             <div className="quote">
@@ -123,27 +125,27 @@ export default function Home() {
         <p>ATHLETE.</p>
         <p>STUDENT.</p>
         <p>BELIEVER.</p>
-        <p>ADVOCATE.</p>
+        <p>ASPIRING AT.</p>
       </section>
 
       {/* JOURNEY */}
       <section className="journey" id="journey">
-        <div className="sectionLabel light">02 — THE JOURNEY</div>
+        <div className="sectionLabel light">02 — MY JOURNEY</div>
 
         <div className="journeyHeader">
-          <p className="miniTitle">PURPOSE IN MOTION</p>
+          <p className="miniTitle">WHERE I&apos;VE BEEN & WHERE I&apos;M GOING</p>
 
           <h2>
             LEARNING. GROWING.
             <br />
-            <span>SHOWING UP.</span>
+            <span>BECOMING.</span>
           </h2>
 
           <p className="journeyIntro">
-            What began with a family connection to soccer became my own love
-            for sport and continues to evolve into a career centered around
-            healthcare, advocacy, education, and supporting athletes through
-            every part of their journey.
+            This portfolio is a look into the experiences that have shaped me:
+            my connection to soccer, my education in Exercise Science, my
+            current clinical learning, and the goals I&apos;m continuing to
+            work toward.
           </p>
         </div>
 
@@ -170,21 +172,20 @@ export default function Home() {
               <p>
                 Soccer became more than something I tried because of my father.
                 I grew to love the game myself, building discipline,
-                confidence, resilience, and a lifelong connection to athletes
-                and sport.
+                confidence, resilience, and a lifelong connection to sport.
               </p>
             </div>
           </article>
 
           <article className="journeyCard">
-            <img src="/images/training-2.jpeg" alt="Athletic training student" />
+            <img src="/images/training-2.jpeg" alt="Nyonnie during her studies" />
             <div>
               <span>03</span>
-              <h3>THE STUDENT</h3>
+              <h3>EXERCISE SCIENCE</h3>
               <p>
-                Today, I am building clinical knowledge, developing hands-on
-                skills, and preparing for a career dedicated to athlete health,
-                recovery, performance, and advocacy.
+                Earning my bachelor&apos;s degree in Exercise Science gave me a
+                stronger understanding of movement, physical health, exercise,
+                and the science behind human performance.
               </p>
             </div>
           </article>
@@ -198,8 +199,9 @@ export default function Home() {
               <h3>THE MEMORIES</h3>
               <p>
                 The practices, teammates, matches, and moments on the field
-                became part of the foundation that shaped my understanding of
-                sport and the people who dedicate themselves to it.
+                became part of the foundation that shaped my relationship with
+                sport and my appreciation for the people who dedicate
+                themselves to it.
               </p>
             </div>
           </article>
@@ -210,46 +212,46 @@ export default function Home() {
               <span>05</span>
               <h3>THE CONNECTION</h3>
               <p>
-                Being an athlete gave me a perspective I carry with me today.
-                I understand that athletes are more than their performance,
-                and they deserve care that recognizes the person behind the
-                uniform.
+                Being an athlete gave me a perspective I still carry today.
+                Those experiences continue to influence my interests in
+                healthcare, wellness, movement, and athlete advocacy.
               </p>
             </div>
           </article>
 
           <article className="journeyCard">
-            <img src="/images/graduation.jpeg" alt="Nyonnie future goals" />
+            <img src="/images/graduation.jpeg" alt="Nyonnie graduation" />
             <div>
               <span>06</span>
-              <h3>THE FUTURE</h3>
+              <h3>WHAT&apos;S NEXT</h3>
               <p>
-                I am working toward becoming an Athletic Trainer who advocates
-                for athletes, continues learning through hands-on experience,
-                and makes an impact far beyond the sidelines.
+                I&apos;m continuing to learn through school and clinical
+                experiences while working toward my goal of becoming a
+                certified Athletic Trainer in the future.
               </p>
             </div>
           </article>
         </div>
       </section>
 
-      {/* TRAINING */}
+      {/* EXPERIENCE */}
       <section className="training" id="training">
-        <div className="sectionLabel">03 — BEHIND THE WORK</div>
+        <div className="sectionLabel">03 — LEARNING & EXPERIENCE</div>
 
         <div className="trainingHeader">
-          <p className="miniTitle">THE WORK BEHIND THE GOAL</p>
+          <p className="miniTitle">PART OF THE JOURNEY</p>
 
           <h2>
-            THIS IS THE
+            LEARNING THROUGH
             <br />
-            <span>PROCESS.</span>
+            <span>EXPERIENCE.</span>
           </h2>
 
           <p className="trainingIntro">
-            From clinical experience to strength training and wellness, every
-            day is another opportunity to learn, improve, gain hands-on
-            experience, and become better prepared to care for others.
+            I&apos;m still learning and developing my skills. My clinical
+            experiences, fitness journey, and education give me opportunities
+            to learn hands-on, ask questions, grow, and prepare for my future
+            career.
           </p>
         </div>
 
@@ -260,7 +262,7 @@ export default function Home() {
             </video>
             <div className="videoInfo">
               <span>01</span>
-              <p>CLINICAL EXPERIENCE</p>
+              <p>CLINICAL LEARNING</p>
             </div>
           </div>
 
@@ -270,7 +272,7 @@ export default function Home() {
             </video>
             <div className="videoInfo">
               <span>02</span>
-              <p>MOVEMENT & WELLNESS</p>
+              <p>MY FITNESS JOURNEY</p>
             </div>
           </div>
 
@@ -280,37 +282,36 @@ export default function Home() {
             </video>
             <div className="videoInfo">
               <span>03</span>
-              <p>STRENGTH & TRAINING</p>
+              <p>LEARNING & GROWTH</p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* PURPOSE */}
+      {/* ASPIRATIONS */}
       <section className="purpose">
-        <div className="sectionLabel light">04 — PURPOSE</div>
+        <div className="sectionLabel light">04 — ASPIRATIONS</div>
 
         <div className="purposeContent">
-          <p className="miniTitle">WHY ATHLETIC TRAINING?</p>
+          <p className="miniTitle">WHERE I&apos;M HEADED</p>
 
           <h2>
-            SPORT BUILT THE FOUNDATION.
+            EXERCISE SCIENCE.
             <br />
-            <span>CARE GAVE IT PURPOSE.</span>
+            <span>ATHLETIC TRAINING NEXT.</span>
           </h2>
 
           <div className="purposeGrid">
             <p>
-              Athletic Trainers are healthcare professionals who help prevent,
-              evaluate, manage, and rehabilitate injuries while supporting
-              athletes throughout recovery.
+              I&apos;ve earned my bachelor&apos;s degree in Exercise Science
+              and I&apos;m now continuing to build my education and clinical
+              experience as an aspiring Athletic Trainer.
             </p>
 
             <p>
-              My experiences as an athlete help shape the professional I want
-              to become. My goal is to advocate for athletes and help create
-              environments where they feel heard, respected, supported, and
-              confident in the care they receive.
+              My goal is to eventually become a certified Athletic Trainer and
+              use my education, experiences, and perspective as a former athlete
+              to support and advocate for athletes throughout their journeys.
             </p>
           </div>
         </div>
@@ -318,30 +319,30 @@ export default function Home() {
 
       {/* BEYOND */}
       <section className="beyond">
-        <div className="sectionLabel">05 — BEYOND THE SIDELINES</div>
+        <div className="sectionLabel">05 — BEYOND SCHOOL & SPORT</div>
 
         <div className="beyondGrid">
           <div>
-            <p className="miniTitle">THE PERSON BEHIND THE PURPOSE</p>
+            <p className="miniTitle">MORE ABOUT ME</p>
 
             <h2>
               MORE THAN
               <br />
-              <span>A CAREER.</span>
+              <span>ONE THING.</span>
             </h2>
           </div>
 
           <div className="beyondText">
             <p>
-              Away from Athletic Training, I enjoy fitness, weight training,
-              nature walks, yoga, stretching, tea and lattes, skincare,
-              fashion, and continuing to grow personally and professionally.
+              Outside of school and my career goals, I enjoy fitness, weight
+              training, nature walks, yoga, stretching, tea and lattes,
+              skincare, fashion, and continuing to grow personally.
             </p>
 
             <p>
               Faith also plays an important role in my journey. I believe in
-              setting goals, pushing through adversity, and using my experiences
-              to encourage others along the way.
+              setting goals, pushing through adversity, staying grounded, and
+              continuing to become a better version of myself.
             </p>
 
             <div className="interestTags">
@@ -350,19 +351,19 @@ export default function Home() {
               <span>FAITH</span>
               <span>WELLNESS</span>
               <span>YOGA</span>
-              <span>SPORTS MEDICINE</span>
+              <span>EXERCISE SCIENCE</span>
             </div>
           </div>
         </div>
       </section>
 
-      {/* WELLNESS VISION */}
+      {/* WELLNESS */}
       <section className="wellness" id="wellness">
-        <div className="sectionLabel">06 — WELLNESS VISION</div>
+        <div className="sectionLabel">06 — INTERESTS & WELLNESS</div>
 
         <div className="wellnessGrid">
           <div className="wellnessHeading">
-            <p className="miniTitle">BEYOND FITNESS</p>
+            <p className="miniTitle">ANOTHER SIDE OF ME</p>
 
             <h2>
               HEALTH. FITNESS.
@@ -373,24 +374,23 @@ export default function Home() {
 
           <div className="wellnessContent">
             <p>
-              My vision goes beyond fitness alone. I want to bring together
-              health, movement, beauty, and self-care in a way that helps people
-              feel good about themselves inside and out.
+              My interests go beyond school and Athletic Training. I&apos;m
+              interested in the ways health, movement, beauty, and self-care can
+              all contribute to how people feel about themselves inside and
+              out.
             </p>
 
             <p>
-              In the future, I hope to expand into esthetics and combine
-              personal care with fitness and wellness. I want to help both women
-              and men understand that taking care of yourself is not limited to
-              one gender. Self-care, confidence, and feeling your best are for
-              everyone.
+              In the future, I&apos;d like to explore esthetics and continue
+              learning more about personal care, fitness, and wellness. I
+              believe self-care, confidence, and taking care of yourself can be
+              valuable for both women and men.
             </p>
 
             <p>
-              As I continue becoming more social, meeting new people, and
-              stepping outside of my comfort zone, I ultimately want to build
-              something of my own that allows me to help people, have fun, and
-              create a business centered around wellness and self-care.
+              I&apos;m also working on becoming more social, meeting new people,
+              stepping outside of my comfort zone, and exploring the different
+              interests and opportunities that may become part of my future.
             </p>
 
             <div className="wellnessTags">
@@ -408,7 +408,7 @@ export default function Home() {
       {/* VISION */}
       <section className="vision" id="vision">
         <div className="visionContent">
-          <p className="miniTitle">THE DREAM</p>
+          <p className="miniTitle">A FUTURE GOAL</p>
 
           <h2>
             ONE DAY,
@@ -417,29 +417,28 @@ export default function Home() {
           </h2>
 
           <p>
-            My long-term goal is to serve as medical personnel on one of the
-            biggest stages in sport — the World Cup. For me, that dream connects
-            back to where everything started: a love for soccer that began with
-            my father and eventually became part of my own story.
+            One of my long-term goals is to one day serve as medical personnel
+            on one of the biggest stages in sport — the World Cup. For me,
+            that dream connects back to where everything started: a love for
+            soccer that began with my father and eventually became part of my
+            own story.
           </p>
 
           <p>
-            The World Cup represents the kind of future I am working toward:
-            combining my love for sport with my passion for healthcare and
-            caring for athletes at the highest level.
+            I&apos;m not there yet. Right now, I&apos;m focused on learning,
+            gaining experience, continuing my education, and taking the steps
+            necessary to eventually become a certified Athletic Trainer.
           </p>
 
           <p>
-            My vision does not stop there. I want to continue exploring fitness,
-            wellness, beauty, self-care, and entrepreneurship while building a
-            career that gives me the opportunity to help people in different
-            ways.
+            My future interests also include fitness, wellness, beauty,
+            self-care, and entrepreneurship. I&apos;m still discovering where
+            each part of my journey may lead.
           </p>
 
           <p>
-            Every class, clinical experience, workout, connection, and challenge
-            is another step toward becoming the woman and professional I want to
-            be.
+            Every class, clinical experience, workout, connection, and
+            challenge is another opportunity to learn and grow.
           </p>
 
           <blockquote>
@@ -453,18 +452,18 @@ export default function Home() {
         </div>
       </section>
 
-      {/* CONNECT */}
+      {/* FOLLOW */}
       <section className="connect" id="connect">
-        <div className="sectionLabel light">07 — CONNECT</div>
+        <div className="sectionLabel light">07 — FOLLOW MY JOURNEY</div>
 
         <div className="connectGrid">
           <div className="connectHeading">
-            <p className="miniTitle">FOLLOW THE JOURNEY</p>
+            <p className="miniTitle">SOCIAL MEDIA</p>
 
             <h2>
-              LET&apos;S
+              FOLLOW MY
               <br />
-              <span>CONNECT.</span>
+              <span>JOURNEY.</span>
             </h2>
           </div>
 
@@ -502,10 +501,10 @@ export default function Home() {
       <footer>
         <div>
           <strong>NYONNIE.</strong>
-          <p>Athletic Training • Wellness • Self-Care</p>
+          <p>Personal Portfolio • Exercise Science • Aspiring Athletic Trainer</p>
         </div>
 
-        <p>Built around purpose, sport & care.</p>
+        <p>My story. My journey. My future.</p>
       </footer>
     </main>
   );

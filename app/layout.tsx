@@ -5,21 +5,24 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://nyonnie-portfolio.vercel.app"),
 
   title: {
-    default: "Nyonnie Barnnie | Athletic Training, Wellness & Self-Care",
+    default: "Nyonnie Barnnie | Personal Portfolio",
     template: "%s | Nyonnie Barnnie",
   },
 
   description:
-    "Explore Nyonnie Barnnie's journey in athletic training, sports medicine, fitness, wellness, beauty, self-care, and athlete advocacy.",
+    "Explore Nyonnie Barnnie's personal portfolio, including her bachelor's degree in Exercise Science, soccer background, clinical learning experiences, wellness interests, and journey toward becoming an Athletic Trainer.",
 
   keywords: [
     "Nyonnie Barnnie",
     "Nyonnie",
     "fitwityoni",
+    "Nyonnie Barnnie Portfolio",
+    "Personal Portfolio",
+    "Exercise Science",
+    "Aspiring Athletic Trainer",
+    "Athletic Training Student",
     "Athletic Training",
-    "Athletic Trainer",
-    "Sports Medicine",
-    "Athlete Advocacy",
+    "Soccer",
     "Fitness",
     "Wellness",
     "Self-Care",
@@ -39,9 +42,9 @@ export const metadata: Metadata = {
   },
 
   openGraph: {
-    title: "Nyonnie Barnnie | Athletic Training, Wellness & Self-Care",
+    title: "Nyonnie Barnnie | Personal Portfolio",
     description:
-      "Follow Nyonnie Barnnie's journey through athletic training, sports medicine, fitness, wellness, self-care, and athlete advocacy.",
+      "Get to know Nyonnie Barnnie through her personal portfolio — from her Exercise Science background and soccer journey to her clinical learning experiences, wellness interests, and future goals in Athletic Training.",
     url: "https://nyonnie-portfolio.vercel.app",
     siteName: "Nyonnie Barnnie",
     type: "website",
@@ -50,9 +53,9 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Nyonnie Barnnie | Athletic Training, Wellness & Self-Care",
+    title: "Nyonnie Barnnie | Personal Portfolio",
     description:
-      "Athletic training, sports medicine, fitness, wellness, self-care, and athlete advocacy.",
+      "Nyonnie Barnnie's personal portfolio documenting her Exercise Science background, soccer journey, wellness interests, clinical learning, and path toward Athletic Training.",
   },
 
   robots: {
