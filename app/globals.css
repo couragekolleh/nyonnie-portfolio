@@ -145,6 +145,7 @@ video {
   justify-content: center;
   align-items: flex-start;
   padding-bottom: 100px;
+  animation: fadeUp 0.9s ease both;
 }
 
 .eyebrow,
@@ -435,9 +436,11 @@ video {
     filter 0.5s ease;
 }
 
+/* Keeps manually edited black-and-white soccer images
+   from being pushed back toward color on hover */
 .journeyCard:hover img {
   transform: scale(1.04);
-  filter: saturate(1) brightness(1.04);
+  filter: brightness(1.04);
 }
 
 .journeyCard > div {
@@ -887,10 +890,6 @@ button:focus-visible {
     opacity: 1;
     transform: translateY(0);
   }
-}
-
-.heroContent {
-  animation: fadeUp 0.9s ease both;
 }
 
 /* =========================================

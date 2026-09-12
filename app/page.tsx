@@ -85,9 +85,17 @@ export default function Home() {
 
             <p>
               Sport has been part of my story for as long as I can remember.
-              Growing up playing soccer gave me an appreciation for
-              competition, resilience, teamwork, and the athletes behind the
-              game.
+              My connection to soccer began with my father, who played the game
+              in Liberia and once dreamed of becoming a professional player.
+              Growing up around his love for soccer and watching FIFA inspired
+              me to try the sport for myself.
+            </p>
+
+            <p>
+              What started as inspiration from my father became a genuine love
+              of my own. Playing soccer taught me about competition,
+              resilience, teamwork, discipline, and the experiences athletes
+              go through both on and off the field.
             </p>
 
             <p>
@@ -132,47 +140,93 @@ export default function Home() {
           </h2>
 
           <p className="journeyIntro">
-            What began with a love for sport and fitness continues to evolve
-            into a career centered around healthcare, advocacy, education, and
-            supporting athletes through every part of their journey.
+            What began with a family connection to soccer became my own love
+            for sport and continues to evolve into a career centered around
+            healthcare, advocacy, education, and supporting athletes through
+            every part of their journey.
           </p>
         </div>
 
         <div className="journeyCards">
           <article className="journeyCard">
-            <img src="/images/training-1.jpeg" alt="Athlete journey" />
+            <img src="/images/soccer-1.jpeg" alt="Nyonnie playing soccer" />
             <div>
               <span>01</span>
-              <h3>THE ATHLETE</h3>
+              <h3>WHERE IT STARTED</h3>
               <p>
-                Growing up playing soccer and staying active created a lifelong
-                connection to sport and an understanding of the challenges
-                athletes experience.
+                My father played soccer in Liberia and once hoped to pursue the
+                game professionally. His passion for soccer and love of
+                watching FIFA inspired me to step onto the field and discover
+                the sport for myself.
               </p>
             </div>
           </article>
 
           <article className="journeyCard">
-            <img src="/images/training-2.jpeg" alt="Student journey" />
+            <img src="/images/soccer-2.jpeg" alt="Nyonnie soccer journey" />
             <div>
               <span>02</span>
-              <h3>THE STUDENT</h3>
+              <h3>THE ATHLETE</h3>
               <p>
-                Building clinical knowledge, developing practical skills, and
-                preparing for a career dedicated to athlete health, recovery,
-                and performance.
+                Soccer became more than something I tried because of my father.
+                I grew to love the game myself, building discipline,
+                confidence, resilience, and a lifelong connection to athletes
+                and sport.
               </p>
             </div>
           </article>
 
           <article className="journeyCard">
-            <img src="/images/graduation.jpeg" alt="Future goals" />
+            <img src="/images/training-2.jpeg" alt="Athletic training student" />
             <div>
               <span>03</span>
+              <h3>THE STUDENT</h3>
+              <p>
+                Today, I am building clinical knowledge, developing hands-on
+                skills, and preparing for a career dedicated to athlete health,
+                recovery, performance, and advocacy.
+              </p>
+            </div>
+          </article>
+        </div>
+
+        <div className="journeyCards">
+          <article className="journeyCard">
+            <img src="/images/soccer-3.jpeg" alt="Nyonnie soccer memories" />
+            <div>
+              <span>04</span>
+              <h3>THE MEMORIES</h3>
+              <p>
+                The practices, teammates, matches, and moments on the field
+                became part of the foundation that shaped my understanding of
+                sport and the people who dedicate themselves to it.
+              </p>
+            </div>
+          </article>
+
+          <article className="journeyCard">
+            <img src="/images/soccer-4.jpeg" alt="Nyonnie soccer team" />
+            <div>
+              <span>05</span>
+              <h3>THE CONNECTION</h3>
+              <p>
+                Being an athlete gave me a perspective I carry with me today.
+                I understand that athletes are more than their performance,
+                and they deserve care that recognizes the person behind the
+                uniform.
+              </p>
+            </div>
+          </article>
+
+          <article className="journeyCard">
+            <img src="/images/graduation.jpeg" alt="Nyonnie future goals" />
+            <div>
+              <span>06</span>
               <h3>THE FUTURE</h3>
               <p>
-                Working toward becoming an Athletic Trainer who advocates for
-                athletes and makes an impact far beyond the sidelines.
+                I am working toward becoming an Athletic Trainer who advocates
+                for athletes, continues learning through hands-on experience,
+                and makes an impact far beyond the sidelines.
               </p>
             </div>
           </article>
@@ -194,8 +248,8 @@ export default function Home() {
 
           <p className="trainingIntro">
             From clinical experience to strength training and wellness, every
-            day is another opportunity to learn, improve, and become better
-            prepared to care for others.
+            day is another opportunity to learn, improve, gain hands-on
+            experience, and become better prepared to care for others.
           </p>
         </div>
 
@@ -253,9 +307,10 @@ export default function Home() {
             </p>
 
             <p>
-              My goal is to advocate for athletes and help create environments
-              where they feel heard, respected, supported, and confident in the
-              care they receive.
+              My experiences as an athlete help shape the professional I want
+              to become. My goal is to advocate for athletes and help create
+              environments where they feel heard, respected, supported, and
+              confident in the care they receive.
             </p>
           </div>
         </div>
@@ -363,9 +418,15 @@ export default function Home() {
 
           <p>
             My long-term goal is to serve as medical personnel on one of the
-            biggest stages in sport — the World Cup. It represents the kind of
-            future I am working toward: combining my love for sport with my
-            passion for healthcare and caring for athletes.
+            biggest stages in sport — the World Cup. For me, that dream connects
+            back to where everything started: a love for soccer that began with
+            my father and eventually became part of my own story.
+          </p>
+
+          <p>
+            The World Cup represents the kind of future I am working toward:
+            combining my love for sport with my passion for healthcare and
+            caring for athletes at the highest level.
           </p>
 
           <p>
