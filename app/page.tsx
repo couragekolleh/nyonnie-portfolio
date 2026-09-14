@@ -43,10 +43,9 @@ export default function Home() {
           </h1>
 
           <p className="heroText">
-            A personal portfolio documenting my background, experiences,
-            interests, and journey. I hold a bachelor&apos;s degree in Exercise
-            Science and I&apos;m currently working toward a future career in
-            Athletic Training.
+            Athlete. Exercise Science graduate. Aspiring Athletic Trainer.
+            This is a look into the experiences, interests, values, and
+            ambitions that continue to shape who I am and who I&apos;m becoming.
           </p>
 
           <div className="heroButtons">
@@ -76,40 +75,58 @@ export default function Home() {
           </div>
 
           <div className="aboutContent">
-            <p className="miniTitle">GET TO KNOW ME</p>
+            <p className="miniTitle">MORE THAN A TITLE</p>
 
             <h2>
-              MY STORY.
+              THIS IS
               <br />
-              <span>MY JOURNEY.</span>
+              <span>WHO I AM.</span>
             </h2>
 
             <p>
-              I&apos;m Nyonnie. I have a bachelor&apos;s degree in Exercise
-              Science, a lifelong connection to sports, and a growing passion
-              for healthcare, wellness, fitness, and helping others.
+              Hi, I&apos;m Nyonnie Barnnie. I&apos;m an Exercise Science
+              graduate, former soccer player, aspiring Athletic Trainer, and
+              someone who believes that growth happens when you&apos;re willing
+              to keep learning, challenge yourself, and step outside of what
+              feels comfortable.
             </p>
 
             <p>
-              Sport has been part of my story for as long as I can remember.
-              My connection to soccer began with my father, who played the game
+              Sports have played a major role in shaping who I am. My
+              connection to soccer started with my father, who played the game
               in Liberia and once dreamed of becoming a professional player.
-              Growing up around his love for soccer and watching FIFA inspired
-              me to try the sport for myself.
+              Growing up around his passion for soccer and watching FIFA
+              inspired me to eventually step onto the field myself.
             </p>
 
             <p>
-              What started as inspiration from my father became a genuine love
-              of my own. Playing soccer taught me about competition,
-              resilience, teamwork, discipline, and the experiences athletes
-              go through both on and off the field.
+              Over time, soccer became my own story. Being an athlete taught me
+              discipline, resilience, teamwork, accountability, and how much
+              physical and emotional support can matter to someone competing in
+              sport. Those experiences are part of what eventually drew me
+              toward Exercise Science and Athletic Training.
             </p>
 
             <p>
-              My interest in movement and health eventually led me to Exercise
-              Science. Today, I&apos;m continuing my education and gaining
-              hands-on clinical experience as I work toward becoming an
-              Athletic Trainer.
+              I earned my bachelor&apos;s degree in Exercise Science and I&apos;m
+              continuing to develop through education and hands-on clinical
+              experiences. My long-term goal is to become a certified Athletic
+              Trainer and work with athletes at a high level, with the dream of
+              one day serving as medical personnel on the World Cup stage.
+            </p>
+
+            <p>
+              But my life isn&apos;t defined by one career goal. I&apos;m also
+              passionate about fitness, wellness, beauty, self-care, faith,
+              fashion, and personal development. I enjoy discovering new
+              interests, meeting new people, and becoming more confident in
+              spaces that once pushed me outside of my comfort zone.
+            </p>
+
+            <p>
+              At the center of everything is a desire to keep becoming a better
+              version of myself while being someone athletes and the people
+              around me can trust, learn from, and feel supported by.
             </p>
 
             <div className="quote">
@@ -123,9 +140,9 @@ export default function Home() {
       {/* IDENTITY */}
       <section className="identityStrip">
         <p>ATHLETE.</p>
-        <p>STUDENT.</p>
+        <p>GRADUATE.</p>
         <p>BELIEVER.</p>
-        <p>ASPIRING AT.</p>
+        <p>FUTURE AT.</p>
       </section>
 
       {/* JOURNEY */}
@@ -142,10 +159,10 @@ export default function Home() {
           </h2>
 
           <p className="journeyIntro">
-            This portfolio is a look into the experiences that have shaped me:
-            my connection to soccer, my education in Exercise Science, my
-            current clinical learning, and the goals I&apos;m continuing to
-            work toward.
+            Every stage of my journey has contributed something to the person
+            I&apos;m becoming — from discovering soccer and competing as an
+            athlete to studying Exercise Science and gaining clinical
+            experience for my future in Athletic Training.
           </p>
         </div>
 
@@ -248,10 +265,10 @@ export default function Home() {
           </h2>
 
           <p className="trainingIntro">
-            I&apos;m still learning and developing my skills. My clinical
-            experiences, fitness journey, and education give me opportunities
-            to learn hands-on, ask questions, grow, and prepare for my future
-            career.
+            I&apos;m continuing to develop my skills through education,
+            clinical experiences, fitness, observation, and hands-on learning.
+            Each experience gives me another opportunity to ask questions,
+            improve, and prepare for the responsibilities of my future career.
           </p>
         </div>
 
@@ -260,6 +277,7 @@ export default function Home() {
             <video controls playsInline preload="metadata">
               <source src="/videos/clinicalvideo.mp4" type="video/mp4" />
             </video>
+
             <div className="videoInfo">
               <span>01</span>
               <p>CLINICAL LEARNING</p>
@@ -270,6 +288,7 @@ export default function Home() {
             <video controls playsInline preload="metadata">
               <source src="/videos/workoutvideo.mp4" type="video/mp4" />
             </video>
+
             <div className="videoInfo">
               <span>02</span>
               <p>MY FITNESS JOURNEY</p>
@@ -280,6 +299,7 @@ export default function Home() {
             <video controls playsInline preload="metadata">
               <source src="/videos/training-3.mp4" type="video/mp4" />
             </video>
+
             <div className="videoInfo">
               <span>03</span>
               <p>LEARNING & GROWTH</p>
@@ -310,8 +330,9 @@ export default function Home() {
 
             <p>
               My goal is to eventually become a certified Athletic Trainer and
-              use my education, experiences, and perspective as a former athlete
-              to support and advocate for athletes throughout their journeys.
+              use my education, experiences, and perspective as a former
+              athlete to support and advocate for athletes throughout their
+              journeys.
             </p>
           </div>
         </div>
@@ -375,9 +396,9 @@ export default function Home() {
           <div className="wellnessContent">
             <p>
               My interests go beyond school and Athletic Training. I&apos;m
-              interested in the ways health, movement, beauty, and self-care can
-              all contribute to how people feel about themselves inside and
-              out.
+              interested in the ways health, movement, beauty, and self-care
+              can all contribute to how people feel about themselves inside
+              and out.
             </p>
 
             <p>
@@ -478,6 +499,7 @@ export default function Home() {
                 <span>INSTAGRAM</span>
                 <strong>@fitwityoni</strong>
               </div>
+
               <span className="socialArrow">↗</span>
             </a>
 
@@ -491,6 +513,7 @@ export default function Home() {
                 <span>FACEBOOK</span>
                 <strong>Nyonnie Barnnie</strong>
               </div>
+
               <span className="socialArrow">↗</span>
             </a>
           </div>
@@ -501,7 +524,9 @@ export default function Home() {
       <footer>
         <div>
           <strong>NYONNIE.</strong>
-          <p>Personal Portfolio • Exercise Science • Aspiring Athletic Trainer</p>
+          <p>
+            Personal Portfolio • Exercise Science • Aspiring Athletic Trainer
+          </p>
         </div>
 
         <p>My story. My journey. My future.</p>
