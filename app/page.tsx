@@ -124,10 +124,12 @@ export default function Home() {
             </p>
 
             <p>
-              At the center of everything is a desire to keep becoming a better
-              version of myself while being someone athletes and the people
-              around me can trust, learn from, and feel supported by.
-            </p>
+              
+  At the center of everything is a desire to keep becoming a better
+  version of myself while growing into an Athletic Trainer whom
+  athletes can trust, learn from, and feel supported by.
+</p>
+            
 
             <div className="quote">
               “I want to show up for my athletes in the ways I wish someone had
